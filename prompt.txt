@@ -1,0 +1,31 @@
+equipe:
+Amanda Gabrielly Campos Arújo Silva
+Stefany Fernades de Mello
+
+Personagens:
+Sombra
+Lynx
+Hermit
+May
+Butcher
+Tenebras
+
+habilidade:
+
+Sombra: Habilidade: elementos da Sombra
+Lynx: Habilidade: de explosão e ataques de garras
+Hermit: Habilidade: magia da tempestade (eletricidade)
+May: Habilidade: possui varios poderes especiais, os principios são eclipse
+Butcher: Habilidade: Açougueiro e terremoto
+Tenebras:  Rei do medo (Fear Beam)
+
+Cura:
+
+Sombra: Regeneração
+Lynx:Roubo de vida ou invisibilidade
+Herimit: Não tem cura< mais usa suas magia
+May: Regeneração
+Butcher: Não possui cura, mais tem o sangramento
+Tenebras: Não possui cura, porém tem seus encatamentos.
+
+Um jogo de RPG com graficos divertidos mecanicas, X1 jogo de lutador
